@@ -1,15 +1,3 @@
-# TensorTonic Solutions
-
-Welcome to my TensorTonic solutions repository!
-
-Here you'll find my solutions to various machine learning and deep learning problems from [TensorTonic](https://tensortonic.com).
-
-## What is TensorTonic?
-
-TensorTonic is a platform where you can implement core algorithms of Machine Learning from scratch.
-
-This repository contains my personal solutions to these problems, automatically synchronized from the platform.
-
 <!-- tensortonic:start -->
 # Phan Xuân Khoa's TensorTonic Solutions
 
@@ -56,3 +44,9 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/s4dz)
 <!-- tensortonic:end -->
+
+## About this repository
+
+Core machine-learning building blocks implemented from scratch in NumPy: optimizers, loss functions, image processing, object-detection utilities and ResNet blocks. Each folder holds one problem.
+
+[TensorTonic](https://www.tensortonic.com) is a platform for implementing ML algorithms from scratch with automatic verification. The table above is synced from my verified solutions there.
